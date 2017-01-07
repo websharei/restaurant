@@ -1,5 +1,5 @@
 Welcome to Restaurant
 ==============
 
-Restaurant URL:<br>
+Restaurant Search<br>
 https://github.com/websharei/restaurant/issues
