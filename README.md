@@ -2,4 +2,5 @@ Welcome to Restaurant
 ==============
 
 Restaurant Search<br>
-* https://github.com/websharei/restaurant/issues
+* All: https://github.com/websharei/restaurant/issues
+* Keyword: https://github.com/websharei/restaurant/labels
