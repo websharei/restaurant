@@ -7,4 +7,4 @@
 
 ## Input Restaurant
 
-* [Get started](https://github.com/websharei/restaurant/issues/new?assignees=&labels=&template=review_request_template.md&title=%5B%EC%A7%80%EC%97%AD%EB%AA%85%5D+%EC%9D%8C%EC%8B%9D%EB%AA%85)
+* [Get started](https://github.com/websharei/restaurant/issues/new?assignees=&labels=&template=review_request_template.md&title=%5B%EC%A7%80%EC%97%AD%EB%AA%85%5D+%EC%9D%8C%EC%8B%9D%EC%A0%90%EB%AA%85)
